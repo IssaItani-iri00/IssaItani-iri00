@@ -3,8 +3,9 @@
 <h3 align="center">💻 Computer Science Graduate | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code.;Building+cool+things+with+Angular+%26+TypeScript.;Always+learning%2C+always+coding.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code.;%42uilding+cool+things+with+Angular+%26+TypeScript.;Always+learning%2C+always+coding.">
 </p>
+
 
 ---
 
