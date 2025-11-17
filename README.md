@@ -1,5 +1,4 @@
 <!-- Banner -->
-<h1 align="center">👋 Hey, I’m <span style="color:#00ADB5">Issa Itani</span></h1>
 <h3 align="center">💻 Computer Science Graduate | Full Stack Developer</h3>
 
 <p align="center">
