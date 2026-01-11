@@ -13,7 +13,7 @@
 - 🎓 **CS Graduate** from the American University of Beirut.  
 - 🧠 Passionate about **Full Stack Development**, **AI**, and **creative tech solutions**.  
 - 🌍 Based in **Beirut, Lebanon**.  
-- 🎮 Gamer & former **Rugby player** — I believe teamwork and problem-solving go hand in hand.  
+- 🎮 Gamer & former **Rugby player**, I believe teamwork and problem-solving go hand in hand.  
 - ☕ Runs on **coffee, clean code, and curiosity**.
 
 ---
