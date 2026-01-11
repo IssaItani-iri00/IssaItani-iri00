@@ -20,7 +20,7 @@
 
 ### 🚀 Featured Projects  
 
-- 🏢 **Building Management System** — Project using MySQL, and .NET with Angular frontend . 
+- 🏢 **Building Management System**, Project using MySQL, and .NET with Angular frontend . 
 
 ---
 
@@ -74,8 +74,3 @@
   <a href="https://linkedin.com/in/issa-itani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:i.itani03@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
----
-
-> _“Code is like art -> it’s not just about logic, it’s about expression.”_  
-> — **Issa Itani**
